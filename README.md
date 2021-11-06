@@ -1,2 +1,0 @@
-# MyFirstGitRepo
-FirstRepository
